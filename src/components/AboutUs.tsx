@@ -57,7 +57,7 @@ export default function AboutUs() {
 
         <div className="mt-12 text-center">
           <img
-            src="dist/assets/auto-top.jpeg"
+            src="assets/auto-top.jpeg"
             alt="Equipo AutoTop"
             className="w-full h-96 object-cover rounded-xl shadow-lg"
           />
